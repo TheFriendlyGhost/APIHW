@@ -1,0 +1,46 @@
+#gifs{
+	min-height: 1em;
+	padding-left: 25px;
+}
+
+#sidebar{
+	min-height: 1000px;
+	min-width: 200px;
+	width: 200px;
+}
+
+#content{
+	/*margin-left: 10px;*/
+}
+
+#form{
+	margin-top: 30px;
+	margin-bottom: 50px !important;
+}
+
+.btn-gif,.favorites{
+	width: 100%
+	/*border-radius: 0 !important;*/
+}
+
+.rm{
+	margin-top: .3rem;
+}
+
+.btn-dark{
+	border-radius: 0 !important;
+	margin-right: 0;
+	color: #E9B129 !important;
+}
+
+.top-buffer { 
+	margin-bottom:20px; 
+}
+
+.fa-times-circle{
+	color: #586261
+}
+
+.favorites{
+	padding-right: 28px !important;
+}
